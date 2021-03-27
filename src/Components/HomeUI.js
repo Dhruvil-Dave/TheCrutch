@@ -1,5 +1,5 @@
-import React from 'react'
-import '.././Styles/HomeUI.css'
+import React from 'react';
+import '.././Styles/HomeUI.css';
 function HomeUI() {
     return (
         <div className="container"> 
@@ -45,7 +45,7 @@ function HomeUI() {
 
                 </div>
         </div>
-    )
-}
+    );
+};
 
-export default HomeUI
+export default HomeUI;
